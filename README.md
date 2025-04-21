@@ -18,4 +18,3 @@ this toolkit is for the x86_64 and aarch64 architecture (isr 1100, catalyst 3k 4
 * nano
 * nmap
 * screen
-
