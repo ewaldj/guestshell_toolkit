@@ -6,7 +6,7 @@ execute the following command from the Cisco guestshell - this requires internet
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/ewaldj/guestshell_toolkit/refs/heads/main/install.sh)"
 ```
 
-this toolkit is for the x86_64 and aarch64 architecture (isr 1100, catalyst 3k 4k 5k ...) and includes the following tools
+this toolkit is for the x86_64 and aarch64 architecture and includes the following tools
 
 * eping.py 
 * epinga.py 
